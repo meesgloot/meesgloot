@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Meeseeks Glootie and i am a frontend developer.<br>
+I like to create interesting and beautiful websites, and also engage in self-education.<br>
+My hardskills:<br>
+-html, css, javascript<br>
+-vue, bootstrap<br>
+-1с:bitrix, 1с:analitics<br>
 
-<!--
-**meesgloot/meesgloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working for a 1c franchisee company.
+- 🌱 I'm currently studying to be a 1c developer. Oh, it's so hard) But I'm not giving up!
+- 💬 Ask me about my hardskills. I will try my best to help you.
+- 📫 How to reach me:<br>
+   telegram: @Meeseeks_Glootie
